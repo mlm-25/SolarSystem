@@ -4,7 +4,7 @@ public class FeatureSun {
 
     String heat;
     String temp;
-    int radius;
+    String radius;
     String color;
     String martialStatus;
 }
