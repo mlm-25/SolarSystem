@@ -17,5 +17,12 @@ public class Main {
         mikeSun.radius = "900000km";
         mikeSun.martialStatus = "in love with asghar";
 
+
+        // adding planet 1 features
+        Planet1 astro = new Planet1();
+        astro.color = "grey";
+        astro.relationshipStatus = "single";
+        astro.size = "99889898989km";
+
     }
 }
