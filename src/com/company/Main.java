@@ -31,6 +31,9 @@ public class Main {
         astro2.size = "34343434333km";
         astro2.status = "same as MIKE's";
 
+        Moon2 mooner = new Moon2();
+        mooner.color = "noColor";
+        mooner.size = "big";
 
     }
 }
