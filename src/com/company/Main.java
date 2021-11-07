@@ -32,5 +32,10 @@ public class Main {
         astro2.status = "same as MIKE's";
 
 
+        //moon 1 features
+        Moon1 mooneyMike = new Moon1();
+        mooneyMike.color = "red";
+        mooneyMike.size = "negative";
+
     }
 }
