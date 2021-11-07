@@ -36,6 +36,8 @@ public class Main {
         Moon1 mooneyMike = new Moon1();
         mooneyMike.color = "red";
         mooneyMike.size = "negative";
+        mooneyMike.rings = "6";
+        mooneyMike.dob = "98";
 
     }
 }
