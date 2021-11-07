@@ -18,7 +18,6 @@ public class Main {
         mikeSun.martialStatus = "in love with asghar";
 
 
-
         // adding planet 1 features
         Planet1 astro = new Planet1();
         astro.color = "grey";
@@ -30,6 +29,7 @@ public class Main {
         astro2.color = "pink";
         astro2.size = "34343434333km";
         astro2.status = "same as MIKE's";
+
 
         Moon2 mooner = new Moon2();
         mooner.color = "noColor";
