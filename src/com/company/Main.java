@@ -39,5 +39,10 @@ public class Main {
         mooneyMike.rings = "6";
         mooneyMike.dob = "98";
 
+        //mars
+        Mars mars = new Mars();
+        mars.color = "red";
+        mars.size = "yes";
+
     }
 }
